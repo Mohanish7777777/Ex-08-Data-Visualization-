@@ -20,7 +20,7 @@ Developed By Mohanish.K
 Ref No: 212222100028
 ```
 # CODE
-```
+```python3
 #Reading the given dataset
 
 import pandas as pd
@@ -164,7 +164,7 @@ plt.show()
 plt.boxplot(x="Sales",data=df)
 plt.show()
 ```
-# OUPUT
+# OUTPUT
 ## Reading the given dataset
 <img width="595" alt="171088128-126c7176-a343-4f0d-9775-be64ef025be9" src="https://user-images.githubusercontent.com/93992063/171088625-75b69a10-f573-44f7-9645-c3ce4ef77e5b.png">
 
